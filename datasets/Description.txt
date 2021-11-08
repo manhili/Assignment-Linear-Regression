@@ -1,0 +1,4 @@
+A dataset with 1848 observations on 18 variables:
+* **distid:** district identifier
+* **schid:** school identifier
+* **lunch:** percent eligible, free lunch
